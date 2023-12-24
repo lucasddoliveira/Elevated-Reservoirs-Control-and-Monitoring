@@ -2,16 +2,14 @@
 
 C/C++ (ESP8266 ) script of an autonomous
 system that utilizes the Internet of Things concept to measure
-and control the levels of elevated reservoirs. The system com-
-municates through the MQTT protocol with a cloud server,
+and control the levels of elevated reservoirs. The system communicates through the MQTT protocol with a cloud server,
 enabling remote monitoring and control. Additionally, an email
 alert system has been implemented to automatically monitor the
 platform’s connectivity with the plant, providing notifications of
 system inactivity. With this approach, the developed system has
 the potential to generate an annual savings of approximately
 US$33,819.19 per reservoir for water and sewage companies,
-thanks to a significant reduction in unwanted distribution in-
-terruptions, thus contributing to greater operational efficiency
+thanks to a significant reduction in unwanted distribution interruptions, thus contributing to greater operational efficiency
 and an improvement in the service provided
 
 At the moment, an article about this work is being written for publication in a journal. Nonetheless, for any inquiries or suggestions, please feel free to contact via email: lucasddoliveira1@gmail.com
