@@ -1,6 +1,6 @@
 # Control and Monitoring System of Water Level in Elevated Reservoirs Using Internet of Things
 
-C/C++ (ESP8266 )Script of an autonomous
+C/C++ (ESP8266 ) script of an autonomous
 system that utilizes the Internet of Things concept to measure
 and control the levels of elevated reservoirs. The system com-
 municates through the MQTT protocol with a cloud server,
