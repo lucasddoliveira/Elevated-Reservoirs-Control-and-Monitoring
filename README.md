@@ -20,6 +20,5 @@ Script em C/C++ (ESP8266) de um sistema autônomo que utiliza o conceito de Inte
 
 Atualmente, um artigo sobre este trabalho está sendo escrito para publicação em uma revista. No entanto, para quaisquer perguntas ou sugestões, sinta-se à vontade para entrar em contato via e-mail: lucasddoliveira1@gmail.com
 
-![bancada](https://github.com/lucasddoliveira/Elevated-Reservoirs-Control-and-Monitoring/assets/85253035/d20443ed-021f-471a-8485-a4504d0a9977)
 ![grafana](https://github.com/lucasddoliveira/Elevated-Reservoirs-Control-and-Monitoring/assets/85253035/ff0be590-692b-442f-bba6-846afe15b26a)
 
