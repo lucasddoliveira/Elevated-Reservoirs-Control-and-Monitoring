@@ -18,7 +18,7 @@ At the moment, an article about this work is being written for publication in a 
 
 /////////////////////////////////////////////////
 
-Sistema de Controle e Monitoramento do Nível de Água em Reservatórios Elevados Utilizando Internet das Coisas
+# Sistema de Controle e Monitoramento do Nível de Água em Reservatórios Elevados Utilizando Internet das Coisas
 
 Script em C/C++ (ESP8266) de um sistema autônomo que utiliza o conceito de Internet das Coisas para medir e controlar os níveis de reservatórios elevados. O sistema se comunica por meio do protocolo MQTT com um servidor na nuvem, permitindo monitoramento e controle remotos. Adicionalmente, um sistema de alerta por e-mail foi implementado para monitorar automaticamente a conectividade da plataforma com a planta, fornecendo notificações de inatividade do sistema. Com essa abordagem, o sistema desenvolvido tem o potencial de gerar uma economia anual de aproximadamente US$33.819,19 por reservatório para empresas de água e saneamento, graças a uma redução significativa em interrupções indesejadas na distribuição, contribuindo assim para uma maior eficiência operacional e melhoria no serviço prestado.
 
