@@ -14,7 +14,7 @@
 #define hTubo 3.5
 #define hCaixa 1.7
 
-#define TOKEN "BBFF-Z8gXjsxHYPFtkFTwmEiVd4X6KbN5ob"   
+#define TOKEN "YOUR_UBIDOTS_TOKEN"   
 #define intervalo 45000//Intervalo de tempo para publicação no Ubidots
 #define intervaloLCD 15000
 
